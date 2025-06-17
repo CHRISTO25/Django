@@ -20,5 +20,5 @@ class Employee (models.Model):
         return self.EmployeeName
 
 
-
+class test
     # ruxna3-pyzraM-niskeb
